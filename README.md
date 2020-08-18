@@ -1,16 +1,23 @@
-### Hi there 👋
+# Skills
 
-<!--
-**qrai/qrai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I know these programming languages:
+* C# (4 years)
+* HTML, CSS (3 years) 
+* Javascript (1.5 years) 
+* Lua (1 year) 
+* PHP (6 months) 
 
-Here are some ideas to get you started:
+## Web
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I know these web technologies:
+* Bootstrap 
+* JQuery
+* AJAX
+
+## .NET
+
+I know these .NET libraries:
+* FCTB
+* OpenTK
+* Newtonsoft.JSON
+* NLua
