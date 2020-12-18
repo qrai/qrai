@@ -2,8 +2,8 @@
 
 I know these programming languages:
 * C# (5 years)
-* HTML, CSS (3 years, using Bootstrap) 
-* Javascript,Typescript (1.5 years, using JQuery, AJAX) 
+* HTML, CSS (3 years, using Bootstrap,TailwindCSS) 
+* Javascript,Typescript (1.5 years, using Vue, Axios, JQuery, AJAX) 
 * Lua (1 year) 
 * PHP (1 year) 
 * Go (6 months)
