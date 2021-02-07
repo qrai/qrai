@@ -13,17 +13,17 @@ I know these programming languages:
 ## Micro-frameworks
 * [JS] [CWML](https://github.com/qrai/CWML) 
 * [JS] [dragndrop.js](https://github.com/qrai/dragndrop.js)
+## Software
+* [C#] [VoltDev](https://github.com/qrai/VoltDev)
 ## Libraries
-* [C#] [DynamicBuild](https://github.com/Bytell-Company/DynamicBuild) 
-## Controls
-* [C#] [RuvyCodeEditor](https://github.com/Bytell-Company/RCE) 
+* [C#] [DynamicBuild](https://github.com/Bytell-Company/DynamicBuild)
 ## Compilers
-* [C#] SIC (Simple Instructions Compiler) 
+* [C#] SIC (Simple Instructions Compiler, Private Source Code) 
 ## Interpreters
-* [C#] VX (Simple Programming Language)
-* [C#] Poly (OOP Programming Language) 
+* [C#] VX (Simple Programming Language, Source Code Lost)
+* [C#] [Poly](https://github.com/Poly-Language/Poly) (OOP Programming Language) 
 ## Graphic/Game Engines
-* [C#] ProximaEngine.2D (2D Game Engine, built on top of SFML)
+* [C#] ProximaEngine.2D (2D Game Engine that built on top of SFML, Private Source Code)
 
 # Contact
 Email: kabys.services@gmail.com
