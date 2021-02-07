@@ -1,24 +1,25 @@
 # Skills
 
 I know these programming languages:
-* C# (5 years)
-* HTML, CSS (3 years; using Bootstrap,TailwindCSS) 
-* Javascript,Typescript (2 years; using Vue, Axios, JQuery, AJAX) 
-* Lua (1 year) 
-* PHP (1 year) 
-* Python (6 months) 
-* Go (6 months)
+* C# (5.5 years)
+* HTML, CSS (4 years; using Bootstrap, TailwindCSS, Themeky) 
+* Javascript, Typescript (3 years; using Vue, Axios, JQuery, AJAX, CWML) 
+* PHP (2 years) 
+* SQL (2 years) 
+* Python (1 year)
 
 # Projects
 
+## Micro-frameworks
+* [JS] CWML
+* [JS] dragndrop.js
 ## Compilation
-* SIC (Simple Instructions Compiler) 
-## Parsing
-* VX (Simple Programming Language)
-* Poly (OOP Programming Language) 
+* [C#] SIC (Simple Instructions Compiler) 
+## Interpreter
+* [C#] VX (Simple Programming Language)
+* [C#] Poly (OOP Programming Language) 
 ## Graphics
-* ProximaEngine.2D (2D Game Engine, built on top of SFML)
-* ProximaEngine.3D
+* [C#] ProximaEngine.2D (2D Game Engine, built on top of SFML)
 
 # Contact
 Email: kabys.services@gmail.com
