@@ -11,8 +11,8 @@ I know these programming languages:
 # Projects
 
 ## Micro-frameworks
-* [JS] CWML
-* [JS] dragndrop.js
+* [JS] [CWML](https://github.com/qrai/CWML) 
+* [JS] [dragndrop.js](https://github.com/qrai/dragndrop.js)
 ## Compilation
 * [C#] SIC (Simple Instructions Compiler) 
 ## Interpreter
