@@ -13,6 +13,7 @@ I know these programming languages:
 ## Micro-frameworks
 * [JS] [CWML](https://github.com/qrai/CWML) 
 * [JS] [dragndrop.js](https://github.com/qrai/dragndrop.js)
+* [JS] [htmlgizmo.js](https://github.com/qrai/htmlgizmo.js)
 ## Software
 * [C#] [VoltDev](https://github.com/qrai/VoltDev)
 ## Libraries
