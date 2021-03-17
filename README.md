@@ -16,6 +16,7 @@ I know these programming languages:
 * [JS] [webbuilder.js](https://github.com/qrai/webbuilder.js) 
 * [JS] [htmlgizmo.js](https://github.com/qrai/htmlgizmo.js)
 * [JS] [dragndrop.js](https://github.com/qrai/dragndrop.js)
+* [JS] [safe-values.js](https://github.com/qrai/safe-values.js)
 ## Software
 * [C#] [VoltDev](https://github.com/qrai/VoltDev)
 ## Libraries
