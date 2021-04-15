@@ -25,7 +25,7 @@ I know these programming languages:
 * [C#] SIC (Simple Instructions Compiler, Private Source Code) 
 ## Interpreters
 * [C#] VX (Simple Programming Language, Source Code Lost)
-* [C#] [Poly](https://github.com/Poly-Language/Poly) (OOP Programming Language) 
+* [C#] [Poly](https://github.com/PolyLanguage/Poly) (OOP Programming Language) 
 ## Graphic/Game Engines
 * [C#] ProximaEngine.2D (2D Game Engine that built on top of SFML, Private Source Code)
 ## Protocols
