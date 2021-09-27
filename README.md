@@ -32,4 +32,5 @@ I know these programming languages:
 * [C#] [UGP (Unified Games Protocol)](https://github.com/qrai/UGP)
 # Contact
 Email: kabys.services@gmail.com
-VK: vk.com/sergey_kabirov
+
+VK: https://vk.com/sergey_kabirov
