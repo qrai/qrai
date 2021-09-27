@@ -2,10 +2,10 @@
 
 I know these programming languages:
 * C# (5.5 years)
-* HTML, CSS (4 years; using Bootstrap, TailwindCSS, Themeky) 
-* Javascript, Typescript (3 years; using Vue, Axios, JQuery, AJAX, CWML) 
+* HTML, CSS/SASS/LESS (4 years; using Bootstrap, TailwindCSS, UIX) 
+* Javascript, Typescript (3 years; using Vue.js, Node.js + Express) 
 * PHP (2 years) 
-* SQL (2 years) 
+* SQL (2 years; using MySQL, Postgres) 
 * Python (1 year)
 
 # Projects
@@ -32,3 +32,4 @@ I know these programming languages:
 * [C#] [UGP (Unified Games Protocol)](https://github.com/qrai/UGP)
 # Contact
 Email: kabys.services@gmail.com
+VK: vk.com/sergey_kabirov
