@@ -1,12 +1,31 @@
+# About
+Hello! I am a **Fullstack Web Developer** and my name is Sergey Kabirov. 
+
+Right now im working in digital agency that makes amazing projects - [https://proxymal.ru](Proxymal) 
+
 # Skills
 
-I know these programming languages:
-* C# (5.5 years)
-* HTML, CSS/SASS/LESS (4 years; using Bootstrap, TailwindCSS, UIX) 
-* Javascript, Typescript (3 years; using Vue.js, Node.js + Express) 
-* PHP (2 years) 
-* SQL (2 years; using MySQL, Postgres) 
-* Python (1 year)
+I know these programming languages and technologies:
+
+* HTML + CSS (since 2019) 
+  * SASS, LESS (since 2020) 
+  * Tailwind (since 2020)
+  * Bootstrap (since 2019)
+  * UIX (since 2021)
+* Javascript (since 2019)
+  * Vanilla ES6 - ES12
+  * Node.js
+    * Express
+    * mysql2
+    * cron
+    * EJS, Handlebars
+  * Vue 
+  * Webpack, Parcel
+  * JQuery (*Deprecated, not using!*) 
+* PHP (since 2020) 
+* SQL (since 2019; using MySQL, Postgres) 
+* [Hobby] C# (since 2017)
+  * OpenTK (since 2020)
 
 # Projects
 
@@ -30,7 +49,12 @@ I know these programming languages:
 * [C#] ProximaEngine.2D (2D Game Engine that built on top of SFML, Private Source Code)
 ## Protocols
 * [C#] [UGP (Unified Games Protocol)](https://github.com/qrai/UGP)
-# Contact
-Email: kabys.services@gmail.com
 
-VK: https://vk.com/sergey_kabirov
+# Contacts
+### Personal
+Email: [kabys.services@gmail.com](mailto:kabys.services@gmail.com) 
+
+VK: [sergey_kabirov](https://vk.com/sergey_kabirov) 
+
+### Company
+Website: [proxymal.ru](https://proxymal.ru)
