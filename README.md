@@ -1,7 +1,7 @@
 # About
 Hello! I am a **Fullstack Web Developer** and my name is Sergey Kabirov. 
 
-Right now im working in digital agency that makes amazing projects - [https://proxymal.ru](Proxymal) 
+Right now im working in digital agency that makes amazing projects - [Proxymal](https://proxymal.ru) 
 
 # Skills
 
@@ -13,13 +13,14 @@ I know these programming languages and technologies:
   * Bootstrap (since 2019)
   * UIX (since 2021)
 * Javascript (since 2019)
-  * Vanilla ES6 - ES12
+  * Vanilla (ES2021)
   * Node.js
     * Express
     * mysql2
     * cron
     * EJS, Handlebars
   * Vue 
+  * React Native
   * Webpack, Parcel
   * JQuery (*Deprecated, not using!*) 
 * PHP (since 2020) 
@@ -29,7 +30,10 @@ I know these programming languages and technologies:
 
 # Projects
 
-## Micro-frameworks
+## Frameworks
+* [JS] [Vegtex](https://github.com/Proxymal/Vegtex) 
+
+## Libraries
 * [JS] [CWML](https://github.com/qrai/CWML) 
 * [JS] [CWML2](https://github.com/qrai/CWML2) 
 * [JS] [webbuilder.js](https://github.com/qrai/webbuilder.js) 
@@ -40,21 +44,16 @@ I know these programming languages and technologies:
 * [C#] [VoltDev](https://github.com/qrai/VoltDev)
 ## Libraries
 * [C#] [DynamicBuild](https://github.com/Bytell-Company/DynamicBuild)
-## Compilers
-* [C#] SIC (Simple Instructions Compiler, Private Source Code) 
-## Interpreters
+## Programming Languages
 * [C#] VX (Simple Programming Language, Source Code Lost)
 * [C#] [Poly](https://github.com/PolyLanguage/Poly) (OOP Programming Language) 
 ## Graphic/Game Engines
 * [C#] ProximaEngine.2D (2D Game Engine that built on top of SFML, Private Source Code)
-## Protocols
-* [C#] [UGP (Unified Games Protocol)](https://github.com/qrai/UGP)
 
 # Contacts
 ### Personal
-Email: [kabys.services@gmail.com](mailto:kabys.services@gmail.com) 
-
-VK: [sergey_kabirov](https://vk.com/sergey_kabirov) 
+Email: [kabys.services@gmail.com](mailto:kabys.services@gmail.com)
+VK: [sergey_kabirov](https://vk.com/sergey_kabirov)
 
 ### Company
 Website: [proxymal.ru](https://proxymal.ru)
