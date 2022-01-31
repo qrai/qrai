@@ -32,6 +32,7 @@ I know these programming languages and technologies:
 
 ## Frameworks
 * [JS] [Vegtex](https://github.com/Proxymal/Vegtex) 
+* [JS] [Fishboard](https://github.com/Proxymal/Fishboard) 
 
 ## Libraries
 * [JS] [CWML](https://github.com/qrai/CWML) 
