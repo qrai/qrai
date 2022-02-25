@@ -33,23 +33,26 @@ I know these programming languages and technologies:
 ## Frameworks
 * [JS] [Vegtex](https://github.com/Proxymal/Vegtex) 
 * [JS] [Fishboard](https://github.com/Proxymal/Fishboard) 
+* [CSS] [UIX](https://github.com/Proxymal/UIX) 
 
 ## Libraries
-* [JS] [CWML](https://github.com/qrai/CWML) 
-* [JS] [CWML2](https://github.com/qrai/CWML2) 
-* [JS] [webbuilder.js](https://github.com/qrai/webbuilder.js) 
+* [JS] [CWML](https://github.com/qrai/CWML)
+* [JS] [CWML2](https://github.com/qrai/CWML2)
+* [JS] [webbuilder.js](https://github.com/qrai/webbuilder.js)
 * [JS] [htmlgizmo.js](https://github.com/qrai/htmlgizmo.js)
 * [JS] [dragndrop.js](https://github.com/qrai/dragndrop.js)
 * [JS] [safe-values.js](https://github.com/qrai/safe-values.js)
+* [C#] [DynamicBuild](https://github.com/Bytell-Company/DynamicBuild)
+
 ## Software
 * [C#] [VoltDev](https://github.com/qrai/VoltDev)
-## Libraries
-* [C#] [DynamicBuild](https://github.com/Bytell-Company/DynamicBuild)
+
 ## Programming Languages
-* [C#] VX (Simple Programming Language, Source Code Lost)
+* [C#] VX (Simple Programming Language, Source Code is private)
 * [C#] [Poly](https://github.com/PolyLanguage/Poly) (OOP Programming Language) 
+
 ## Graphic/Game Engines
-* [C#] ProximaEngine.2D (2D Game Engine that built on top of SFML, Private Source Code)
+* [C#] ProximaEngine.2D (2D Game Engine that built on top of SFML, Source Code is private)
 
 # Contacts
 ### Personal
@@ -57,4 +60,6 @@ Email: [kabys.services@gmail.com](mailto:kabys.services@gmail.com)
 VK: [sergey_kabirov](https://vk.com/sergey_kabirov)
 
 ### Company
+Doing startups and interesting things in `Proxymal` company! Join us!
+
 Website: [proxymal.ru](https://proxymal.ru)
