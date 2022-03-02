@@ -20,6 +20,7 @@ I know these programming languages and technologies:
     * cron
     * EJS, Handlebars
   * Vue 
+    * Vue router
   * React Native
   * Webpack, Parcel
   * JQuery (*Deprecated, not using!*) 
