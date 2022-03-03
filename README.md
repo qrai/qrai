@@ -21,6 +21,7 @@ I know these programming languages and technologies:
     * EJS, Handlebars
   * Vue 
     * Vue router
+  * Nuxt
   * React Native
   * Webpack, Parcel
   * JQuery (*Deprecated, not using!*) 
