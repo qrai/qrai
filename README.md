@@ -1,4 +1,5 @@
-# About
+<img alt="Skills" style="width:100%;" src="https://github.com/qrai/qrai/blob/master/banner.png?raw=true">
+
 Hello! I am a **Fullstack Web Developer** and my name is Sergey Kabirov. 
 
 Right now im working in digital agency that makes amazing projects - [Proxymal](https://proxymal.ru) 
