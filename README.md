@@ -23,7 +23,9 @@ I know these programming languages and technologies:
   * Webpack, Parcel
   * JQuery (*Deprecated, not using!*) 
 * PHP (since 2020) 
-* SQL (since 2019; using MySQL, Postgres) 
+* SQL (since 2019; using MySQL, Postgres)
+* Jira, Trello, Notion
+* Git, Gitlab, Github Actions
 * [Hobby] C# (since 2017)
   * OpenTK (since 2020)
 
@@ -43,15 +45,9 @@ I know these programming languages and technologies:
 * [JS] [safe-values.js](https://github.com/qrai/safe-values.js)
 * [C#] [DynamicBuild](https://github.com/Bytell-Company/DynamicBuild)
 
-## Software
-* [C#] [VoltDev](https://github.com/qrai/VoltDev)
-
 ## Programming Languages
 * [C#] VX (Simple Programming Language, Source Code is private)
 * [C#] [Poly](https://github.com/PolyLanguage/Poly) (OOP Programming Language) 
-
-## Graphic/Game Engines
-* [C#] ProximaEngine.2D (2D Game Engine that built on top of SFML, Source Code is private)
 
 # Contacts
 ### Personal
