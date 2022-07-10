@@ -18,6 +18,7 @@ I know these programming languages and technologies:
     * EJS, Handlebars
   * Vue 
     * Vue router
+    * Vuex
   * Nuxt
   * React Native
   * Webpack, Parcel
