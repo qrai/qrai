@@ -4,11 +4,11 @@
 
 I know these programming languages and technologies:
 
-* HTML + CSS (since 2019) 
+* `HTML` + `CSS` (since 2019) 
   * SASS, LESS (since 2020) 
   * Tailwind (since 2020)
   * Bootstrap (since 2019)
-* Javascript (since 2019)
+* `Javascript` (since 2019)
   * Vanilla (ES2021)
   * Node.js
     * Express
@@ -23,13 +23,13 @@ I know these programming languages and technologies:
   * Webpack, Parcel
   * Vite
   * JQuery (*Deprecated, not using!*) 
-* TypeScript (since 2021)
-* Docker, Docker compose (since 2021)
-* Redis, RabbitMQ (since 2021)
-* SQL (since 2019; using MySQL, Postgres)
+* `TypeScript` (since 2021)
+* `Docker`, `Docker compose` (since 2021)
+* `Redis`, `RabbitMQ` (since 2021)
+* `SQL` (since 2019; using MySQL, Postgres)
 * Jira, Trello, Notion
 * Git, Gitlab, Github Actions
-* [Hobby] C# (since 2017)
+* [Hobby] `C#` (since 2017)
   * OpenTK (since 2020)
 
 # Projects
