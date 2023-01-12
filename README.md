@@ -8,7 +8,6 @@ I know these programming languages and technologies:
   * SASS, LESS (since 2020) 
   * Tailwind (since 2020)
   * Bootstrap (since 2019)
-  * UIX (since 2021)
 * Javascript (since 2019)
   * Vanilla (ES2021)
   * Node.js
@@ -22,8 +21,11 @@ I know these programming languages and technologies:
   * Nuxt
   * React Native
   * Webpack, Parcel
+  * Vite
   * JQuery (*Deprecated, not using!*) 
-* PHP (since 2020) 
+* TypeScript (since 2021)
+* Docker, Docker compose (since 2021)
+* Redis, RabbitMQ (since 2021)
 * SQL (since 2019; using MySQL, Postgres)
 * Jira, Trello, Notion
 * Git, Gitlab, Github Actions
@@ -33,6 +35,8 @@ I know these programming languages and technologies:
 # Projects
 
 ## Frameworks
+* [TS] [MemoryDB](https://github.com/datasco/MemoryDB)
+* [TS] [Formula](https://github.com/datasco/Formula)
 * [JS] [Vegtex](https://github.com/Proxymal/Vegtex) 
 * [JS] [Fishboard](https://github.com/Proxymal/Fishboard) 
 * [CSS] [UIX](https://github.com/Proxymal/UIX) 
