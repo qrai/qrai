@@ -1,4 +1,4 @@
-<img alt="Skills" style="width:100%;" src="https://github.com/qrai/qrai/blob/master/dev.png?raw=true">
+<img alt="Skills" style="width:100%;" src="https://github.com/qrai/qrai/blob/master/preview.png?raw=true">
 
 # Skills
 
