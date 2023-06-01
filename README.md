@@ -42,25 +42,11 @@ I know these programming languages and technologies:
 * [CSS] [UIX](https://github.com/Proxymal/UIX) 
 
 ## Libraries
-* [JS] [CWML](https://github.com/qrai/CWML)
-* [JS] [CWML2](https://github.com/qrai/CWML2)
-* [JS] [webbuilder.js](https://github.com/qrai/webbuilder.js)
-* [JS] [htmlgizmo.js](https://github.com/qrai/htmlgizmo.js)
-* [JS] [dragndrop.js](https://github.com/qrai/dragndrop.js)
-* [JS] [safe-values.js](https://github.com/qrai/safe-values.js)
 * [C#] [DynamicBuild](https://github.com/Bytell-Company/DynamicBuild)
 
 ## Programming Languages
-* [C#] VX (Simple Programming Language, Source Code is private)
 * [C#] [Poly](https://github.com/PolyLanguage/Poly) (OOP Programming Language) 
 
 # Contacts
 ### Personal
 Email: [kabys.services@gmail.com](mailto:kabys.services@gmail.com)
-VK: [sergey_kabirov](https://vk.com/sergey_kabirov)
-
-### Company
-Right now im working in digital agency that makes amazing projects - [Proxymal](https://proxymal.ru) 
-Doing startups and interesting things in `Proxymal` company! Join us!
-
-Website: [proxymal.ru](https://proxymal.ru)
