@@ -9,28 +9,18 @@ I know these programming languages and technologies:
   * Tailwind (since 2020)
   * Bootstrap (since 2019)
 * `Javascript` (since 2019)
-  * Vanilla (ES2021)
-  * Node.js
-    * Express
-    * mysql2
-    * cron
-    * EJS, Handlebars
-  * Vue 
-    * Vue router
-    * Vuex
+  * Vanilla JavaScript
+  * TypeScript
+  * Vue 2/3
   * Nuxt
-  * React Native
-  * Webpack, Parcel
-  * Vite
+  * Vite, Webpack, Parcel
   * JQuery (*Deprecated, not using!*) 
-* `TypeScript` (since 2021)
+  * Node.js
 * `Docker`, `Docker compose` (since 2021)
 * `Redis`, `RabbitMQ` (since 2021)
 * `SQL` (since 2019; using MySQL, Postgres)
 * Jira, Trello, Notion
 * Git, Gitlab, Github Actions
-* [Hobby] `C#` (since 2017)
-  * OpenTK (since 2020)
 
 # Projects
 
@@ -41,12 +31,7 @@ I know these programming languages and technologies:
 * [JS] [Fishboard](https://github.com/Proxymal/Fishboard) 
 * [CSS] [UIX](https://github.com/Proxymal/UIX) 
 
-## Libraries
-* [C#] [DynamicBuild](https://github.com/Bytell-Company/DynamicBuild)
-
-## Programming Languages
-* [C#] [Poly](https://github.com/PolyLanguage/Poly) (OOP Programming Language) 
-
 # Contacts
 ### Personal
+Telegram: [@sergey_kabirov](https://t.me/sergey_kabirov)
 Email: [kabys.services@gmail.com](mailto:kabys.services@gmail.com)
