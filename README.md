@@ -1,4 +1,4 @@
-<img alt="Skills" style="width:100%;" src="https://github.com/qrai/qrai/blob/master/preview.png?raw=true">
+<img alt="Skills" style="width:100%;" src="https://github.com/qrai/qrai/blob/master/preview-2024.png?raw=true">
 
 # Skills
 
@@ -13,7 +13,7 @@ I know these programming languages and technologies:
   * Vue 2/3
   * Nuxt
   * React
-  * Next
+  * Next.js
   * Vite, Webpack, Parcel
   * JQuery (*Deprecated, not using!*) 
   * Node.js
